@@ -1,2 +1,2 @@
 ## 🍦 Ice Cream Ledger
-[Open the app →](https://yourusername.github.io/ice-cream-ledger/)
+[Open the app →](https://jhond521.github.io/ice-cream-ledger/)
